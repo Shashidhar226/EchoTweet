@@ -10,7 +10,7 @@ The main goal of EchoTweet is to replicate the distinct writing styles of variou
 - **Style Mimicry**: Generates tweets that mimic the writing style of specific Twitter users.
 - **Customization**: Can be customized to generate other types of content, such as emails and chat messages.
 - **Wide Application**: Useful for studying writing styles, creating personalized content, or for entertainment purposes.
-- 
+
 ## Technology Stack
 - Python
 - [LangChain](https://python.langchain.com/v0.2/docs/introduction/)

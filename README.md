@@ -18,5 +18,5 @@ The main goal of EchoTweet is to replicate the distinct writing styles of variou
 
 ## Potential Applications and Enhancements
 1. **Content Creation**: Automatically generate tweets or social media posts for personal or business accounts.
-2. **Personalized Communication**: Generate personalized emails that mimic the style of the sender.
-3. **Fine-tuning LLMs**: Provides more accurate mimicking by fine tuning the models.
+2. **Personalized Communication**: Generate personalized emails that mimic the sender's style.
+3. **Fine-tuning LLMs**: Provides more accurate mimicking by fine-tuning the models.
